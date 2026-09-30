@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/flop_banner.png" alt="FLOP Network" width="520" />
+</p>
+
 # FLOP Network / Technocore DID 中文新手指南
 
 > 版本：v1.0 · 2026-09-29
